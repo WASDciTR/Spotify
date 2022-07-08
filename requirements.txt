@@ -1,0 +1,9 @@
+requests==2.27.1
+pip install requests_toolbelt
+pip install requests
+pip install colorama
+pip install pystyle
+pip install bs4
+pip install psutil
+pip install pycryptodome
+pip install zipfile
